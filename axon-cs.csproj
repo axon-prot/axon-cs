@@ -6,7 +6,7 @@
     <AssemblyName>axon-cs</AssemblyName>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <!-- No implementation yet; this project will contain the C# implementation of the AXON protocol. -->
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="src/**/*.cs" />
