@@ -25,4 +25,4 @@ The code will be released under the MIT License.
 
 ## Contributing
 
-Contributions are welcome. Please see the CONTRIBUTING.md for guidelines.
+Contributions are welcome. Please see the [CONTRIBUTING.md](https://github.com/axon-prot/axon-cs/blob/master/CONTRIBUTING.md) for guidelines.
