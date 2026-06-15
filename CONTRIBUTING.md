@@ -53,7 +53,7 @@ dotnet build
 
 ## License
 
-The implementation will be released under the **MIT License**. The license file will be added later.
+The implementation will be released under the **MIT License**.
 
 ## Additional Resources
 
